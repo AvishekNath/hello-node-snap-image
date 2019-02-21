@@ -1,4 +1,4 @@
-name: hello-node-snap
+name: hello-node-snap-image
 version: "1.0.2"
 summary: A simple hello world command
 description: A command that simply prints hello world 
